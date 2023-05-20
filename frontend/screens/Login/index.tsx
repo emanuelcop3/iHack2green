@@ -62,7 +62,7 @@ export function Login() {
           </Title>
 
           <Subtitle style={{ fontFamily: "Roboto_300Light" }}>
-            Send money to <BlueBold>anywhere</BlueBold> in the world{" "}
+            Send money to <BlueBold>em qualquer lugar</BlueBold> do Brasil{" "}
             <BlueBold>cheap</BlueBold> and <BlueBold>easy</BlueBold>.
           </Subtitle>
         </Header>
