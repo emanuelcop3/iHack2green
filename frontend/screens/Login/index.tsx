@@ -58,7 +58,7 @@ export function Login() {
       <Container>
         <Header>
           <Title style={{ fontFamily: "Roboto_300Light" }}>
-            Instant{"\n"}Payment{"\n"}Em qualquer lugar{"\n"}In The World!
+            Instant{"\n"}Payment{"\n"}Em qualquer lugar{"\n"}Do Mundo!
           </Title>
 
           <Subtitle style={{ fontFamily: "Roboto_300Light" }}>
