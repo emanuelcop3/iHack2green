@@ -20,14 +20,14 @@
 
 2. 
 
-![logo token NEWSCoin fundo preto](https://user-images.githubusercontent.com/101767386/236680007-9494a3cc-95d1-4854-9d27-c83dc1532e70.png)
+![logo token NEWSCoin fundo preto]()
 
 
 
 3. 
 4. 
 
-![diagrama de blocos](https://user-images.githubusercontent.com/101767386/236679928-9a295b56-e9da-480f-8cd1-18da97119217.jpg)
+![diagrama de blocos]()
 
 
 
